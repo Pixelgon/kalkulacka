@@ -1,4 +1,4 @@
-# todo Přidat 3 3D nebo 2D tělesa
+# todo Přidat 3 3D nebo 2D tělesa vzorce
 
 print("Kalkulačka")
 cisloa = int(input("Zadejte první číslo: "))
